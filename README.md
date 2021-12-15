@@ -1,0 +1,4 @@
+- 👋 hi, i'm @tethic
+- i code in dart, and i try to make the world a better place. but remember, *to achieve greatness, we must first achieve goodness.* 
+- open source forever
+- whiskey > rakija >> decompiling
