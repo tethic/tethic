@@ -1,4 +1,4 @@
 - 👋 hi, i'm @tethic
 - i code in dart & rust, and i try to make the world a better place. but remember, *to achieve greatness, we must first achieve goodness.* 
-- open source forever
+- open source forever, but gotta keep the repos private because of reasons.
 - whiskey > rakija >> decompiling
